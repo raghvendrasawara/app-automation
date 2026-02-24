@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-02-24T06:06:06.114329",
+  "repo_path": "/root/.cache/test-automation-agent/repo_1c9e59f061ca",
+  "operations": [
+    "Health_Check",
+    "Upgrade"
+  ],
+  "test_files": [
+    "test_health_check.robot",
+    "test_upgrade.robot"
+  ],
+  "llm_model": "llama3.2:3b"
+}
